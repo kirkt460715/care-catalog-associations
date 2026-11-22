@@ -1,0 +1,95 @@
+{
+  "fields": [
+    "id",
+    "code",
+    "since",
+    "until",
+    "eligibility",
+    "independent",
+    "excludes",
+    "requires"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "S1",
+      "code": "escape",
+      "since": "2026-01-01",
+      "until": "",
+      "eligibility": "support",
+      "independent": "yes",
+      "excludes": "lift",
+      "requires": ""
+    },
+    {
+      "id": "S2",
+      "code": "clean",
+      "since": "2026-01-01",
+      "until": "",
+      "eligibility": "general",
+      "independent": "yes",
+      "excludes": "",
+      "requires": ""
+    },
+    {
+      "id": "S3",
+      "code": "bath",
+      "since": "2026-01-01",
+      "until": "2026-06-10",
+      "eligibility": "support",
+      "independent": "yes",
+      "excludes": "",
+      "requires": "lift"
+    },
+    {
+      "id": "S4",
+      "code": "escort",
+      "since": "2026-01-01",
+      "until": "",
+      "eligibility": "general",
+      "independent": "yes",
+      "excludes": "",
+      "requires": ""
+    },
+    {
+      "id": "S5",
+      "code": "lift",
+      "since": "2026-01-01",
+      "until": "2026-06-10",
+      "eligibility": "support",
+      "independent": "yes",
+      "excludes": "escape",
+      "requires": ""
+    },
+    {
+      "id": "S6",
+      "code": "lift",
+      "since": "2026-06-10",
+      "until": "",
+      "eligibility": "support",
+      "independent": "no",
+      "excludes": "escape",
+      "requires": ""
+    },
+    {
+      "id": "S7",
+      "code": "bundle",
+      "since": "2026-01-01",
+      "until": "",
+      "eligibility": "general",
+      "independent": "yes",
+      "excludes": "",
+      "requires": ""
+    },
+    {
+      "id": "S8",
+      "code": "bath",
+      "since": "2026-06-10",
+      "until": "",
+      "eligibility": "support",
+      "independent": "yes",
+      "excludes": "",
+      "requires": "lift"
+    }
+  ]
+}

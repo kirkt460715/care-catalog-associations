@@ -1,0 +1,449 @@
+{
+  "fields": [
+    "household",
+    "group"
+  ],
+  "key": "household",
+  "rows": [
+    {
+      "household": "H000",
+      "group": "general"
+    },
+    {
+      "household": "H001",
+      "group": "support"
+    },
+    {
+      "household": "H002",
+      "group": "support"
+    },
+    {
+      "household": "H003",
+      "group": "general"
+    },
+    {
+      "household": "H004",
+      "group": "support"
+    },
+    {
+      "household": "H005",
+      "group": "support"
+    },
+    {
+      "household": "H006",
+      "group": "general"
+    },
+    {
+      "household": "H007",
+      "group": "support"
+    },
+    {
+      "household": "H008",
+      "group": "support"
+    },
+    {
+      "household": "H009",
+      "group": "general"
+    },
+    {
+      "household": "H010",
+      "group": "support"
+    },
+    {
+      "household": "H011",
+      "group": "support"
+    },
+    {
+      "household": "H012",
+      "group": "general"
+    },
+    {
+      "household": "H013",
+      "group": "support"
+    },
+    {
+      "household": "H014",
+      "group": "support"
+    },
+    {
+      "household": "H015",
+      "group": "general"
+    },
+    {
+      "household": "H016",
+      "group": "support"
+    },
+    {
+      "household": "H017",
+      "group": "support"
+    },
+    {
+      "household": "H018",
+      "group": "general"
+    },
+    {
+      "household": "H019",
+      "group": "support"
+    },
+    {
+      "household": "H020",
+      "group": "support"
+    },
+    {
+      "household": "H021",
+      "group": "general"
+    },
+    {
+      "household": "H022",
+      "group": "support"
+    },
+    {
+      "household": "H023",
+      "group": "support"
+    },
+    {
+      "household": "H024",
+      "group": "general"
+    },
+    {
+      "household": "H025",
+      "group": "support"
+    },
+    {
+      "household": "H026",
+      "group": "support"
+    },
+    {
+      "household": "H027",
+      "group": "general"
+    },
+    {
+      "household": "H028",
+      "group": "support"
+    },
+    {
+      "household": "H029",
+      "group": "support"
+    },
+    {
+      "household": "H030",
+      "group": "general"
+    },
+    {
+      "household": "H031",
+      "group": "support"
+    },
+    {
+      "household": "H032",
+      "group": "support"
+    },
+    {
+      "household": "H033",
+      "group": "general"
+    },
+    {
+      "household": "H034",
+      "group": "support"
+    },
+    {
+      "household": "H035",
+      "group": "support"
+    },
+    {
+      "household": "H036",
+      "group": "general"
+    },
+    {
+      "household": "H037",
+      "group": "support"
+    },
+    {
+      "household": "H038",
+      "group": "support"
+    },
+    {
+      "household": "H039",
+      "group": "general"
+    },
+    {
+      "household": "H040",
+      "group": "support"
+    },
+    {
+      "household": "H041",
+      "group": "support"
+    },
+    {
+      "household": "H042",
+      "group": "general"
+    },
+    {
+      "household": "H043",
+      "group": "support"
+    },
+    {
+      "household": "H044",
+      "group": "support"
+    },
+    {
+      "household": "H045",
+      "group": "general"
+    },
+    {
+      "household": "H046",
+      "group": "support"
+    },
+    {
+      "household": "H047",
+      "group": "support"
+    },
+    {
+      "household": "H048",
+      "group": "general"
+    },
+    {
+      "household": "H049",
+      "group": "support"
+    },
+    {
+      "household": "H050",
+      "group": "support"
+    },
+    {
+      "household": "H051",
+      "group": "general"
+    },
+    {
+      "household": "H052",
+      "group": "support"
+    },
+    {
+      "household": "H053",
+      "group": "support"
+    },
+    {
+      "household": "H054",
+      "group": "general"
+    },
+    {
+      "household": "H055",
+      "group": "support"
+    },
+    {
+      "household": "H056",
+      "group": "support"
+    },
+    {
+      "household": "H057",
+      "group": "general"
+    },
+    {
+      "household": "H058",
+      "group": "support"
+    },
+    {
+      "household": "H059",
+      "group": "support"
+    },
+    {
+      "household": "H060",
+      "group": "general"
+    },
+    {
+      "household": "H061",
+      "group": "support"
+    },
+    {
+      "household": "H062",
+      "group": "support"
+    },
+    {
+      "household": "H063",
+      "group": "general"
+    },
+    {
+      "household": "H064",
+      "group": "support"
+    },
+    {
+      "household": "H065",
+      "group": "support"
+    },
+    {
+      "household": "H066",
+      "group": "general"
+    },
+    {
+      "household": "H067",
+      "group": "support"
+    },
+    {
+      "household": "H068",
+      "group": "support"
+    },
+    {
+      "household": "H069",
+      "group": "general"
+    },
+    {
+      "household": "H070",
+      "group": "support"
+    },
+    {
+      "household": "H071",
+      "group": "support"
+    },
+    {
+      "household": "H072",
+      "group": "general"
+    },
+    {
+      "household": "H073",
+      "group": "support"
+    },
+    {
+      "household": "H074",
+      "group": "support"
+    },
+    {
+      "household": "H075",
+      "group": "general"
+    },
+    {
+      "household": "H076",
+      "group": "support"
+    },
+    {
+      "household": "H077",
+      "group": "support"
+    },
+    {
+      "household": "H078",
+      "group": "general"
+    },
+    {
+      "household": "H079",
+      "group": "support"
+    },
+    {
+      "household": "H080",
+      "group": "support"
+    },
+    {
+      "household": "H081",
+      "group": "general"
+    },
+    {
+      "household": "H082",
+      "group": "support"
+    },
+    {
+      "household": "H083",
+      "group": "support"
+    },
+    {
+      "household": "H084",
+      "group": "general"
+    },
+    {
+      "household": "H085",
+      "group": "support"
+    },
+    {
+      "household": "H086",
+      "group": "support"
+    },
+    {
+      "household": "H087",
+      "group": "general"
+    },
+    {
+      "household": "H088",
+      "group": "support"
+    },
+    {
+      "household": "H089",
+      "group": "support"
+    },
+    {
+      "household": "H090",
+      "group": "general"
+    },
+    {
+      "household": "H091",
+      "group": "support"
+    },
+    {
+      "household": "H092",
+      "group": "support"
+    },
+    {
+      "household": "H093",
+      "group": "general"
+    },
+    {
+      "household": "H094",
+      "group": "support"
+    },
+    {
+      "household": "H095",
+      "group": "support"
+    },
+    {
+      "household": "H096",
+      "group": "general"
+    },
+    {
+      "household": "H097",
+      "group": "support"
+    },
+    {
+      "household": "H098",
+      "group": "support"
+    },
+    {
+      "household": "H099",
+      "group": "general"
+    },
+    {
+      "household": "H100",
+      "group": "support"
+    },
+    {
+      "household": "H101",
+      "group": "support"
+    },
+    {
+      "household": "H102",
+      "group": "general"
+    },
+    {
+      "household": "H103",
+      "group": "support"
+    },
+    {
+      "household": "H104",
+      "group": "support"
+    },
+    {
+      "household": "H105",
+      "group": "general"
+    },
+    {
+      "household": "H106",
+      "group": "support"
+    },
+    {
+      "household": "H107",
+      "group": "support"
+    },
+    {
+      "household": "H108",
+      "group": "general"
+    },
+    {
+      "household": "H109",
+      "group": "support"
+    }
+  ]
+}

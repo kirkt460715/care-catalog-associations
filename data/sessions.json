@@ -1,0 +1,1165 @@
+{
+  "fields": [
+    "session",
+    "household",
+    "day",
+    "site",
+    "channel",
+    "displayed"
+  ],
+  "key": "session",
+  "rows": [
+    {
+      "session": "C001",
+      "household": "H001",
+      "day": "2026-02-02",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C002",
+      "household": "H002",
+      "day": "2026-02-03",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C003",
+      "household": "H003",
+      "day": "2026-02-04",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C004",
+      "household": "H004",
+      "day": "2026-02-05",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C005",
+      "household": "H005",
+      "day": "2026-02-06",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C006",
+      "household": "H006",
+      "day": "2026-02-07",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C007",
+      "household": "H007",
+      "day": "2026-02-08",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C008",
+      "household": "H008",
+      "day": "2026-02-09",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C009",
+      "household": "H009",
+      "day": "2026-02-10",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C010",
+      "household": "H010",
+      "day": "2026-02-11",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C011",
+      "household": "H011",
+      "day": "2026-02-12",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C012",
+      "household": "H012",
+      "day": "2026-02-13",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C013",
+      "household": "H013",
+      "day": "2026-02-14",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C014",
+      "household": "H014",
+      "day": "2026-02-15",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C015",
+      "household": "H015",
+      "day": "2026-02-16",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C016",
+      "household": "H016",
+      "day": "2026-02-17",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C017",
+      "household": "H017",
+      "day": "2026-02-18",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C018",
+      "household": "H018",
+      "day": "2026-02-19",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C019",
+      "household": "H019",
+      "day": "2026-02-20",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C020",
+      "household": "H020",
+      "day": "2026-02-21",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C021",
+      "household": "H021",
+      "day": "2026-02-22",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C022",
+      "household": "H022",
+      "day": "2026-02-23",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C023",
+      "household": "H023",
+      "day": "2026-02-24",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C024",
+      "household": "H024",
+      "day": "2026-02-25",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C025",
+      "household": "H025",
+      "day": "2026-02-26",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C026",
+      "household": "H026",
+      "day": "2026-02-27",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C027",
+      "household": "H027",
+      "day": "2026-02-28",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C028",
+      "household": "H028",
+      "day": "2026-03-01",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C029",
+      "household": "H029",
+      "day": "2026-03-02",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C030",
+      "household": "H030",
+      "day": "2026-03-03",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C031",
+      "household": "H031",
+      "day": "2026-03-04",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C032",
+      "household": "H032",
+      "day": "2026-03-05",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C033",
+      "household": "H033",
+      "day": "2026-03-06",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C034",
+      "household": "H034",
+      "day": "2026-03-07",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C035",
+      "household": "H035",
+      "day": "2026-03-08",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C036",
+      "household": "H036",
+      "day": "2026-03-09",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C037",
+      "household": "H037",
+      "day": "2026-03-10",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C038",
+      "household": "H038",
+      "day": "2026-03-11",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C039",
+      "household": "H039",
+      "day": "2026-03-12",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C040",
+      "household": "H040",
+      "day": "2026-03-13",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C041",
+      "household": "H041",
+      "day": "2026-03-14",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C042",
+      "household": "H042",
+      "day": "2026-03-15",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C043",
+      "household": "H043",
+      "day": "2026-03-16",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C044",
+      "household": "H044",
+      "day": "2026-03-17",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C045",
+      "household": "H045",
+      "day": "2026-03-18",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C046",
+      "household": "H046",
+      "day": "2026-03-19",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C047",
+      "household": "H047",
+      "day": "2026-03-20",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C048",
+      "household": "H048",
+      "day": "2026-03-21",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C049",
+      "household": "H049",
+      "day": "2026-03-22",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C050",
+      "household": "H050",
+      "day": "2026-03-23",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C051",
+      "household": "H051",
+      "day": "2026-03-24",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C052",
+      "household": "H052",
+      "day": "2026-03-25",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C053",
+      "household": "H053",
+      "day": "2026-03-26",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C054",
+      "household": "H054",
+      "day": "2026-03-27",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C055",
+      "household": "H055",
+      "day": "2026-03-28",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C056",
+      "household": "H056",
+      "day": "2026-03-29",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C057",
+      "household": "H057",
+      "day": "2026-03-30",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C058",
+      "household": "H058",
+      "day": "2026-03-31",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C059",
+      "household": "H059",
+      "day": "2026-04-01",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C060",
+      "household": "H060",
+      "day": "2026-04-02",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C061",
+      "household": "H061",
+      "day": "2026-04-03",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C062",
+      "household": "H062",
+      "day": "2026-04-04",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C063",
+      "household": "H063",
+      "day": "2026-04-05",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C064",
+      "household": "H064",
+      "day": "2026-04-06",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C065",
+      "household": "H065",
+      "day": "2026-04-07",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C066",
+      "household": "H066",
+      "day": "2026-04-08",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C067",
+      "household": "H067",
+      "day": "2026-04-09",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C068",
+      "household": "H068",
+      "day": "2026-04-10",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C069",
+      "household": "H069",
+      "day": "2026-04-11",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C070",
+      "household": "H070",
+      "day": "2026-04-12",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C071",
+      "household": "H071",
+      "day": "2026-04-13",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C072",
+      "household": "H072",
+      "day": "2026-04-14",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C073",
+      "household": "H073",
+      "day": "2026-04-15",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C074",
+      "household": "H074",
+      "day": "2026-04-16",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C075",
+      "household": "H075",
+      "day": "2026-04-17",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C076",
+      "household": "H076",
+      "day": "2026-04-18",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C077",
+      "household": "H077",
+      "day": "2026-04-19",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C078",
+      "household": "H078",
+      "day": "2026-04-20",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C079",
+      "household": "H079",
+      "day": "2026-04-21",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C080",
+      "household": "H080",
+      "day": "2026-04-22",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C081",
+      "household": "H081",
+      "day": "2026-04-23",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C082",
+      "household": "H082",
+      "day": "2026-04-24",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C083",
+      "household": "H083",
+      "day": "2026-04-25",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C084",
+      "household": "H084",
+      "day": "2026-04-26",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C085",
+      "household": "H085",
+      "day": "2026-04-27",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C086",
+      "household": "H086",
+      "day": "2026-04-28",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C087",
+      "household": "H087",
+      "day": "2026-04-29",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C088",
+      "household": "H088",
+      "day": "2026-04-30",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C089",
+      "household": "H089",
+      "day": "2026-05-01",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C090",
+      "household": "H090",
+      "day": "2026-05-02",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C091",
+      "household": "H091",
+      "day": "2026-05-03",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C092",
+      "household": "H092",
+      "day": "2026-05-04",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C093",
+      "household": "H093",
+      "day": "2026-05-05",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C094",
+      "household": "H094",
+      "day": "2026-05-06",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C095",
+      "household": "H095",
+      "day": "2026-05-07",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C096",
+      "household": "H096",
+      "day": "2026-05-08",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C097",
+      "household": "H097",
+      "day": "2026-05-09",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C098",
+      "household": "H098",
+      "day": "2026-05-10",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C099",
+      "household": "H099",
+      "day": "2026-05-11",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C100",
+      "household": "H100",
+      "day": "2026-02-01",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C101",
+      "household": "H101",
+      "day": "2026-02-02",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C102",
+      "household": "H102",
+      "day": "2026-02-03",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C103",
+      "household": "H103",
+      "day": "2026-02-04",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C104",
+      "household": "H104",
+      "day": "2026-02-05",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C105",
+      "household": "H105",
+      "day": "2026-02-06",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C106",
+      "household": "H106",
+      "day": "2026-02-07",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C107",
+      "household": "H107",
+      "day": "2026-02-08",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C108",
+      "household": "H108",
+      "day": "2026-02-09",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C109",
+      "household": "H109",
+      "day": "2026-02-10",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C110",
+      "household": "H000",
+      "day": "2026-02-11",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C111",
+      "household": "H001",
+      "day": "2026-02-12",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C112",
+      "household": "H002",
+      "day": "2026-02-13",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C113",
+      "household": "H003",
+      "day": "2026-02-14",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C114",
+      "household": "H004",
+      "day": "2026-02-15",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C115",
+      "household": "H005",
+      "day": "2026-02-16",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C116",
+      "household": "H006",
+      "day": "2026-02-17",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C117",
+      "household": "H007",
+      "day": "2026-02-18",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C118",
+      "household": "H008",
+      "day": "2026-02-19",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C119",
+      "household": "H009",
+      "day": "2026-02-20",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C120",
+      "household": "H010",
+      "day": "2026-02-21",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C121",
+      "household": "H011",
+      "day": "2026-02-22",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C122",
+      "household": "H012",
+      "day": "2026-02-23",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C123",
+      "household": "H013",
+      "day": "2026-02-24",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C124",
+      "household": "H014",
+      "day": "2026-02-25",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C125",
+      "household": "H015",
+      "day": "2026-02-26",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C126",
+      "household": "H016",
+      "day": "2026-02-27",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C127",
+      "household": "H017",
+      "day": "2026-02-28",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C128",
+      "household": "H018",
+      "day": "2026-03-01",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C129",
+      "household": "H019",
+      "day": "2026-03-02",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C130",
+      "household": "H020",
+      "day": "2026-03-03",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C131",
+      "household": "H021",
+      "day": "2026-03-04",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C132",
+      "household": "H022",
+      "day": "2026-03-05",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C133",
+      "household": "H023",
+      "day": "2026-03-06",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C134",
+      "household": "H024",
+      "day": "2026-03-07",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,escort,lift,bundle"
+    },
+    {
+      "session": "C135",
+      "household": "H025",
+      "day": "2026-03-08",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C136",
+      "household": "H026",
+      "day": "2026-03-09",
+      "site": "E",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C137",
+      "household": "H027",
+      "day": "2026-03-10",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "clean,bath,lift,bundle"
+    },
+    {
+      "session": "C138",
+      "household": "H028",
+      "day": "2026-03-11",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C139",
+      "household": "H029",
+      "day": "2026-03-12",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,bath,escort,lift"
+    },
+    {
+      "session": "C140",
+      "household": "H030",
+      "day": "2026-03-13",
+      "site": "W",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    },
+    {
+      "session": "C141",
+      "household": "H031",
+      "day": "2026-03-14",
+      "site": "N",
+      "channel": "counter",
+      "displayed": "escape,clean,bath,lift,bundle"
+    },
+    {
+      "session": "C142",
+      "household": "H032",
+      "day": "2026-03-15",
+      "site": "E",
+      "channel": "counter",
+      "displayed": "escape,clean,escort,lift,bundle"
+    },
+    {
+      "session": "C143",
+      "household": "H033",
+      "day": "2026-03-16",
+      "site": "W",
+      "channel": "counter",
+      "displayed": "bath,escort,lift"
+    },
+    {
+      "session": "C144",
+      "household": "H034",
+      "day": "2026-03-17",
+      "site": "N",
+      "channel": "phone",
+      "displayed": "clean,bath,escort,bundle"
+    }
+  ]
+}

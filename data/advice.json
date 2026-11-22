@@ -1,0 +1,59 @@
+{
+  "fields": [
+    "id",
+    "household",
+    "site",
+    "services",
+    "source",
+    "at",
+    "accepted"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "T1",
+      "household": "H008",
+      "site": "N",
+      "services": "lift,bath",
+      "source": "A1",
+      "at": "2026-04-22",
+      "accepted": "lift"
+    },
+    {
+      "id": "T2",
+      "household": "H017",
+      "site": "W",
+      "services": "lift,bath",
+      "source": "A4",
+      "at": "2026-04-25",
+      "accepted": ""
+    },
+    {
+      "id": "T3",
+      "household": "H016",
+      "site": "E",
+      "services": "clean,escort",
+      "source": "A3",
+      "at": "2026-04-22",
+      "accepted": "clean"
+    },
+    {
+      "id": "T4",
+      "household": "H022",
+      "site": "N",
+      "services": "clean,bath",
+      "source": "A5",
+      "at": "2026-05-21",
+      "accepted": ""
+    },
+    {
+      "id": "T5",
+      "household": "H014",
+      "site": "N",
+      "services": "lift,bath",
+      "source": "A1",
+      "at": "2026-03-12",
+      "accepted": "lift"
+    }
+  ]
+}

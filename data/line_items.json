@@ -1,0 +1,2102 @@
+{
+  "fields": [
+    "id",
+    "session",
+    "household",
+    "alias",
+    "observed_id",
+    "state",
+    "parent"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "C001-0",
+      "session": "C001",
+      "household": "H001",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C001-2",
+      "session": "C001",
+      "household": "H001",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C001-4",
+      "session": "C001",
+      "household": "H001",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C005-1",
+      "session": "C005",
+      "household": "H005",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C005-3",
+      "session": "C005",
+      "household": "H005",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C006-0",
+      "session": "C006",
+      "household": "H006",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C006-1",
+      "session": "C006",
+      "household": "H006",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C006-2",
+      "session": "C006",
+      "household": "H006",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C006-3",
+      "session": "C006",
+      "household": "H006",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C006-4",
+      "session": "C006",
+      "household": "H006",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C007-0",
+      "session": "C007",
+      "household": "H007",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C007-2",
+      "session": "C007",
+      "household": "H007",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C009-2",
+      "session": "C009",
+      "household": "H009",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C009-3",
+      "session": "C009",
+      "household": "H009",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C010-4",
+      "session": "C010",
+      "household": "H010",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C011-1",
+      "session": "C011",
+      "household": "H011",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C012-0",
+      "session": "C012",
+      "household": "H012",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C012-1",
+      "session": "C012",
+      "household": "H012",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C012-2",
+      "session": "C012",
+      "household": "H012",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C012-3",
+      "session": "C012",
+      "household": "H012",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C013-0",
+      "session": "C013",
+      "household": "H013",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C013-2",
+      "session": "C013",
+      "household": "H013",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C013-4",
+      "session": "C013",
+      "household": "H013",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C017-1",
+      "session": "C017",
+      "household": "H017",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C017-3",
+      "session": "C017",
+      "household": "H017",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C018-0",
+      "session": "C018",
+      "household": "H018",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C018-1",
+      "session": "C018",
+      "household": "H018",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C018-2",
+      "session": "C018",
+      "household": "H018",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C018-3",
+      "session": "C018",
+      "household": "H018",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C018-4",
+      "session": "C018",
+      "household": "H018",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C019-0",
+      "session": "C019",
+      "household": "H019",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C019-2",
+      "session": "C019",
+      "household": "H019",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C020-3",
+      "session": "C020",
+      "household": "H020",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C023-1",
+      "session": "C023",
+      "household": "H023",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C024-0",
+      "session": "C024",
+      "household": "H024",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "automatic",
+      "parent": "bundle"
+    },
+    {
+      "id": "C024-1",
+      "session": "C024",
+      "household": "H024",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C024-2",
+      "session": "C024",
+      "household": "H024",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C024-3",
+      "session": "C024",
+      "household": "H024",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C025-0",
+      "session": "C025",
+      "household": "H025",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C025-2",
+      "session": "C025",
+      "household": "H025",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C025-4",
+      "session": "C025",
+      "household": "H025",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C027-1",
+      "session": "C027",
+      "household": "H027",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C027-3",
+      "session": "C027",
+      "household": "H027",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C029-1",
+      "session": "C029",
+      "household": "H029",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C029-3",
+      "session": "C029",
+      "household": "H029",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C030-0",
+      "session": "C030",
+      "household": "H030",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C030-1",
+      "session": "C030",
+      "household": "H030",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C030-2",
+      "session": "C030",
+      "household": "H030",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C030-3",
+      "session": "C030",
+      "household": "H030",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C030-4",
+      "session": "C030",
+      "household": "H030",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C031-0",
+      "session": "C031",
+      "household": "H031",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C031-2",
+      "session": "C031",
+      "household": "H031",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C035-1",
+      "session": "C035",
+      "household": "H035",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C036-0",
+      "session": "C036",
+      "household": "H036",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C036-1",
+      "session": "C036",
+      "household": "H036",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C036-2",
+      "session": "C036",
+      "household": "H036",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C036-3",
+      "session": "C036",
+      "household": "H036",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C037-0",
+      "session": "C037",
+      "household": "H037",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C037-2",
+      "session": "C037",
+      "household": "H037",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C037-4",
+      "session": "C037",
+      "household": "H037",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C040-3",
+      "session": "C040",
+      "household": "H040",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C041-1",
+      "session": "C041",
+      "household": "H041",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C041-3",
+      "session": "C041",
+      "household": "H041",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C042-0",
+      "session": "C042",
+      "household": "H042",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C042-1",
+      "session": "C042",
+      "household": "H042",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C042-2",
+      "session": "C042",
+      "household": "H042",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C042-3",
+      "session": "C042",
+      "household": "H042",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C042-4",
+      "session": "C042",
+      "household": "H042",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C043-0",
+      "session": "C043",
+      "household": "H043",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C043-2",
+      "session": "C043",
+      "household": "H043",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C045-2",
+      "session": "C045",
+      "household": "H045",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C045-3",
+      "session": "C045",
+      "household": "H045",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C045-4",
+      "session": "C045",
+      "household": "H045",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C047-1",
+      "session": "C047",
+      "household": "H047",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C048-0",
+      "session": "C048",
+      "household": "H048",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "automatic",
+      "parent": "bundle"
+    },
+    {
+      "id": "C048-1",
+      "session": "C048",
+      "household": "H048",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C048-2",
+      "session": "C048",
+      "household": "H048",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C048-3",
+      "session": "C048",
+      "household": "H048",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C049-0",
+      "session": "C049",
+      "household": "H049",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C049-2",
+      "session": "C049",
+      "household": "H049",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C049-4",
+      "session": "C049",
+      "household": "H049",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C050-3",
+      "session": "C050",
+      "household": "H050",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C053-1",
+      "session": "C053",
+      "household": "H053",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C053-3",
+      "session": "C053",
+      "household": "H053",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C054-0",
+      "session": "C054",
+      "household": "H054",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C054-1",
+      "session": "C054",
+      "household": "H054",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C054-2",
+      "session": "C054",
+      "household": "H054",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C054-3",
+      "session": "C054",
+      "household": "H054",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C054-4",
+      "session": "C054",
+      "household": "H054",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C055-0",
+      "session": "C055",
+      "household": "H055",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C055-2",
+      "session": "C055",
+      "household": "H055",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C059-1",
+      "session": "C059",
+      "household": "H059",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C060-0",
+      "session": "C060",
+      "household": "H060",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C060-1",
+      "session": "C060",
+      "household": "H060",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C060-2",
+      "session": "C060",
+      "household": "H060",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C060-3",
+      "session": "C060",
+      "household": "H060",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C061-0",
+      "session": "C061",
+      "household": "H061",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C061-2",
+      "session": "C061",
+      "household": "H061",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C061-4",
+      "session": "C061",
+      "household": "H061",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C063-1",
+      "session": "C063",
+      "household": "H063",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C063-3",
+      "session": "C063",
+      "household": "H063",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C065-1",
+      "session": "C065",
+      "household": "H065",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C065-3",
+      "session": "C065",
+      "household": "H065",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C066-0",
+      "session": "C066",
+      "household": "H066",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C066-1",
+      "session": "C066",
+      "household": "H066",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C066-2",
+      "session": "C066",
+      "household": "H066",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C066-3",
+      "session": "C066",
+      "household": "H066",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C066-4",
+      "session": "C066",
+      "household": "H066",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C067-0",
+      "session": "C067",
+      "household": "H067",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C067-2",
+      "session": "C067",
+      "household": "H067",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C070-4",
+      "session": "C070",
+      "household": "H070",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C071-1",
+      "session": "C071",
+      "household": "H071",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C072-0",
+      "session": "C072",
+      "household": "H072",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "automatic",
+      "parent": "bundle"
+    },
+    {
+      "id": "C072-1",
+      "session": "C072",
+      "household": "H072",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C072-2",
+      "session": "C072",
+      "household": "H072",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C072-3",
+      "session": "C072",
+      "household": "H072",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C073-0",
+      "session": "C073",
+      "household": "H073",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C073-2",
+      "session": "C073",
+      "household": "H073",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C073-4",
+      "session": "C073",
+      "household": "H073",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C077-1",
+      "session": "C077",
+      "household": "H077",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C077-3",
+      "session": "C077",
+      "household": "H077",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C078-0",
+      "session": "C078",
+      "household": "H078",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C078-1",
+      "session": "C078",
+      "household": "H078",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C078-2",
+      "session": "C078",
+      "household": "H078",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C078-3",
+      "session": "C078",
+      "household": "H078",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C078-4",
+      "session": "C078",
+      "household": "H078",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C079-0",
+      "session": "C079",
+      "household": "H079",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C079-2",
+      "session": "C079",
+      "household": "H079",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C080-3",
+      "session": "C080",
+      "household": "H080",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C081-2",
+      "session": "C081",
+      "household": "H081",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C081-3",
+      "session": "C081",
+      "household": "H081",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C083-1",
+      "session": "C083",
+      "household": "H083",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C084-0",
+      "session": "C084",
+      "household": "H084",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C084-1",
+      "session": "C084",
+      "household": "H084",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C084-2",
+      "session": "C084",
+      "household": "H084",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C084-3",
+      "session": "C084",
+      "household": "H084",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C085-0",
+      "session": "C085",
+      "household": "H085",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C085-2",
+      "session": "C085",
+      "household": "H086",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C085-4",
+      "session": "C085",
+      "household": "H085",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C089-1",
+      "session": "C089",
+      "household": "H089",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C089-3",
+      "session": "C089",
+      "household": "H089",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C090-0",
+      "session": "C090",
+      "household": "H090",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C090-1",
+      "session": "C090",
+      "household": "H090",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C090-2",
+      "session": "C090",
+      "household": "H090",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C090-3",
+      "session": "C090",
+      "household": "H090",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C090-4",
+      "session": "C090",
+      "household": "H090",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C091-0",
+      "session": "C091",
+      "household": "H091",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C091-2",
+      "session": "C091",
+      "household": "H091",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C095-1",
+      "session": "C095",
+      "household": "H095",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C096-0",
+      "session": "C096",
+      "household": "H096",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "automatic",
+      "parent": "bundle"
+    },
+    {
+      "id": "C096-1",
+      "session": "C096",
+      "household": "H096",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C096-2",
+      "session": "C096",
+      "household": "H096",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C096-3",
+      "session": "C096",
+      "household": "H096",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C097-0",
+      "session": "C097",
+      "household": "H097",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C097-2",
+      "session": "C097",
+      "household": "H097",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C097-4",
+      "session": "C097",
+      "household": "H097",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C099-1",
+      "session": "C099",
+      "household": "H099",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C099-3",
+      "session": "C099",
+      "household": "H099",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C100-3",
+      "session": "C100",
+      "household": "H100",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C101-1",
+      "session": "C101",
+      "household": "H101",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C101-3",
+      "session": "C101",
+      "household": "H101",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C102-0",
+      "session": "C102",
+      "household": "H102",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C102-1",
+      "session": "C102",
+      "household": "H102",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C102-2",
+      "session": "C102",
+      "household": "H103",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C102-3",
+      "session": "C102",
+      "household": "H102",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C102-4",
+      "session": "C102",
+      "household": "H102",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C103-0",
+      "session": "C103",
+      "household": "H103",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C103-2",
+      "session": "C103",
+      "household": "H103",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C105-4",
+      "session": "C105",
+      "household": "H105",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C107-1",
+      "session": "C107",
+      "household": "H107",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C108-0",
+      "session": "C108",
+      "household": "H108",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C108-1",
+      "session": "C108",
+      "household": "H108",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C108-2",
+      "session": "C108",
+      "household": "H108",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C108-3",
+      "session": "C108",
+      "household": "H108",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C109-0",
+      "session": "C109",
+      "household": "H109",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C109-2",
+      "session": "C109",
+      "household": "H109",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C109-4",
+      "session": "C109",
+      "household": "H109",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C110-3",
+      "session": "C110",
+      "household": "H000",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C113-1",
+      "session": "C113",
+      "household": "H003",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C113-3",
+      "session": "C113",
+      "household": "H003",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C114-0",
+      "session": "C114",
+      "household": "H004",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C114-1",
+      "session": "C114",
+      "household": "H004",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C114-2",
+      "session": "C114",
+      "household": "H004",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C114-3",
+      "session": "C114",
+      "household": "H004",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C114-4",
+      "session": "C114",
+      "household": "H004",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C115-0",
+      "session": "C115",
+      "household": "H005",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C115-2",
+      "session": "C115",
+      "household": "H005",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C117-2",
+      "session": "C117",
+      "household": "H007",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C117-3",
+      "session": "C117",
+      "household": "H007",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C119-1",
+      "session": "C119",
+      "household": "H009",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C120-0",
+      "session": "C120",
+      "household": "H010",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "automatic",
+      "parent": "bundle"
+    },
+    {
+      "id": "C120-1",
+      "session": "C120",
+      "household": "H010",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C120-2",
+      "session": "C120",
+      "household": "H010",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C120-3",
+      "session": "C120",
+      "household": "H010",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C121-0",
+      "session": "C121",
+      "household": "H011",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C121-2",
+      "session": "C121",
+      "household": "H011",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C121-4",
+      "session": "C121",
+      "household": "H011",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C125-1",
+      "session": "C125",
+      "household": "H015",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C125-3",
+      "session": "C125",
+      "household": "H015",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C126-0",
+      "session": "C126",
+      "household": "H016",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C126-1",
+      "session": "C126",
+      "household": "H016",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C126-2",
+      "session": "C126",
+      "household": "H016",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C126-3",
+      "session": "C126",
+      "household": "H016",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C126-4",
+      "session": "C126",
+      "household": "H016",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C127-0",
+      "session": "C127",
+      "household": "H017",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C127-2",
+      "session": "C127",
+      "household": "H017",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C130-4",
+      "session": "C130",
+      "household": "H020",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C131-1",
+      "session": "C131",
+      "household": "H021",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C132-0",
+      "session": "C132",
+      "household": "H022",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C132-1",
+      "session": "C132",
+      "household": "H022",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C132-2",
+      "session": "C132",
+      "household": "H022",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C132-3",
+      "session": "C132",
+      "household": "H022",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C133-0",
+      "session": "C133",
+      "household": "H023",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C133-2",
+      "session": "C133",
+      "household": "H023",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C133-4",
+      "session": "C133",
+      "household": "H023",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C135-1",
+      "session": "C135",
+      "household": "H025",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C135-3",
+      "session": "C135",
+      "household": "H025",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C137-1",
+      "session": "C137",
+      "household": "H027",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C137-3",
+      "session": "C137",
+      "household": "H027",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C138-0",
+      "session": "C138",
+      "household": "H028",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C138-1",
+      "session": "C138",
+      "household": "H028",
+      "alias": "clean",
+      "observed_id": "clean",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C138-2",
+      "session": "C138",
+      "household": "H028",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C138-3",
+      "session": "C138",
+      "household": "H028",
+      "alias": "lift",
+      "observed_id": "lift",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C138-4",
+      "session": "C138",
+      "household": "H028",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C139-0",
+      "session": "C139",
+      "household": "H029",
+      "alias": "escape",
+      "observed_id": "escape",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C139-2",
+      "session": "C139",
+      "household": "H029",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C140-3",
+      "session": "C140",
+      "household": "H030",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C143-1",
+      "session": "C143",
+      "household": "H033",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "retracted",
+      "parent": ""
+    },
+    {
+      "id": "C144-0",
+      "session": "C144",
+      "household": "H034",
+      "alias": "上门协助",
+      "observed_id": "clean",
+      "state": "automatic",
+      "parent": "bundle"
+    },
+    {
+      "id": "C144-1",
+      "session": "C144",
+      "household": "H034",
+      "alias": "bath",
+      "observed_id": "bath",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C144-2",
+      "session": "C144",
+      "household": "H034",
+      "alias": "escort",
+      "observed_id": "escort",
+      "state": "chosen",
+      "parent": ""
+    },
+    {
+      "id": "C144-3",
+      "session": "C144",
+      "household": "H034",
+      "alias": "bundle",
+      "observed_id": "bundle",
+      "state": "chosen",
+      "parent": ""
+    }
+  ]
+}

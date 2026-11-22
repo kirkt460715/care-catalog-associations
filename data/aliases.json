@@ -1,0 +1,68 @@
+{
+  "fields": [
+    "id",
+    "alias",
+    "site",
+    "start",
+    "end",
+    "canonical",
+    "state"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "A1",
+      "alias": "上门协助",
+      "site": "N",
+      "start": "2026-01-01",
+      "end": "2026-05-12",
+      "canonical": "lift",
+      "state": "approved"
+    },
+    {
+      "id": "A2",
+      "alias": "上门协助",
+      "site": "N",
+      "start": "2026-04-01",
+      "end": "2026-05-12",
+      "canonical": "clean",
+      "state": "ambiguous"
+    },
+    {
+      "id": "A3",
+      "alias": "上门协助",
+      "site": "E",
+      "start": "2026-01-01",
+      "end": "",
+      "canonical": "clean",
+      "state": "approved"
+    },
+    {
+      "id": "A4",
+      "alias": "上门协助",
+      "site": "W",
+      "start": "2026-03-01",
+      "end": "",
+      "canonical": "lift",
+      "state": "approved"
+    },
+    {
+      "id": "A5",
+      "alias": "上门协助",
+      "site": "N",
+      "start": "2026-05-12",
+      "end": "",
+      "canonical": "clean",
+      "state": "approved"
+    },
+    {
+      "id": "A6",
+      "alias": "上门协助",
+      "site": "N",
+      "start": "2026-01-01",
+      "end": "2026-04-01",
+      "canonical": "clean",
+      "state": "reviewed_correction"
+    }
+  ]
+}
